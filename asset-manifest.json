@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Estate/static/css/main.228765aa.css",
+    "main.js": "/Estate/static/js/main.45a0d855.js",
+    "static/media/Questrial-Regular.ttf": "/Estate/static/media/Questrial-Regular.8268e81790f4302669b7.ttf",
+    "static/media/404.png": "/Estate/static/media/404.27df96fefd06d8c3b5b0.png",
+    "index.html": "/Estate/index.html",
+    "main.228765aa.css.map": "/Estate/static/css/main.228765aa.css.map",
+    "main.45a0d855.js.map": "/Estate/static/js/main.45a0d855.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.228765aa.css",
+    "static/js/main.45a0d855.js"
+  ]
+}
