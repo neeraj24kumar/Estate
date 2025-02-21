@@ -1,0 +1,9 @@
+export { default as Home } from "./Home";
+export { default as About } from "./About";
+export { default as Services } from "./Services";
+export { default as PropertyFive } from "./PropertyFive";
+export { default as Contact } from "./Contact";
+export { default as Portifolio } from "./Portifolio";
+export { default as Team } from "./Team";
+export { default as Faqs } from "./Faqs";
+export { default as PageNotFound } from "./PageNotFound";
