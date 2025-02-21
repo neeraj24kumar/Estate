@@ -64,9 +64,9 @@ const Form = () => {
         console.log('Message:', message); //Logs the value of message [1][7]
 
         // Your EmailJS service ID, template ID, and Public Key
-        const serviceId = 'service_e1ew99y';
-        const templateId = 'template_hinvdug';
-        const publicKey = '0QK3Ef7CFqHuQMFJC';
+        const serviceId = 'YOUR_SERVICE_ID';
+        const templateId = 'YOUR_TEMPLATE_ID';
+        const publicKey = 'YOUR_EMAILJS_PUBLIC_KEY';
 
         // Create a new object that contains dynamic template params
         const templateParams = {
